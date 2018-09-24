@@ -1,3 +1,9 @@
-First You need to install Puppeteer with npm i puppeteer.
+First you need to install some packages using npm.
 
-Just run node imbd.js and wait for the results.
+1) Puppeteer with:
+npm i puppeteer
+
+2) File System with: 
+npm i fs-extra
+
+3) Just run node imbd.js and wait for the results.
