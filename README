@@ -1,1 +1,3 @@
 First You need to install Puppeteer with npm i puppeteer.
+
+Just run node imbd.js and wait for the results.
